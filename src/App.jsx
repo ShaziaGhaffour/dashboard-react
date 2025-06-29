@@ -17,8 +17,6 @@ function App() {
         <div className="w-[5%] min-w-[190px] bg-white border-r border-gray-200">
   <BaseSidebar />
 </div>
-
-        {/* Main Content - 85% */}
         <div className="w-[95%] flex flex-col">
           <div className="h-16">
             <Navbar />
